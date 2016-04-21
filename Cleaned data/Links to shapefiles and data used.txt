@@ -1,0 +1,10 @@
+ftp://ftp2.census.gov/geo/tiger/TIGER2013/TABBLOCK/ - block data
+
+ftp://ftp2.census.gov/geo/tiger/TIGER2013/2013-FolderNames-Defined.pdf - metadata for above
+
+http://lehd.ces.census.gov/data/lodes/LODES7/ny/wac/ -LEHD LODES WAC data source
+
+http://lehd.ces.census.gov/data/lodes/LODES7/LODESTechDoc7.0.pdf - metadata for above
+
+https://nycopendata.socrata.com/Transportation/Subway-Stations/arq3-7z49 - Subway data on NYC Open data
+
